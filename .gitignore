@@ -3,3 +3,7 @@ _analysis/
 
 # 用户自己的录屏/样片，不进仓库
 示例.mp4
+
+# 只保留在本地，不发布到 GitHub
+README.txt
+GitHub在线接口部署教程.md
